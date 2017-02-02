@@ -1,0 +1,5 @@
+<application>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="karoscha@karos.synology.me:2202" method="password" />
+  </component>
+</application>
